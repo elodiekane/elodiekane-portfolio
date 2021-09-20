@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Elodie Kane'
     content: |
-      Enthusiastic about AI and cognition
+      Enthusiastic about AI and Cognition
     actions:
       - label: Let's talk
         url: /contact
