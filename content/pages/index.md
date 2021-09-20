@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Elodie Kane'
     content: |
-      Michael's Girlfriend
+      Enthusiastic about AI and cognition
     actions:
       - label: Let's talk
         url: /contact
