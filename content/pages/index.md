@@ -8,7 +8,7 @@ sections:
     content: |
       Enthusiastic about AI and Cognition
     actions:
-      - label: Contact me
+      - label: Contact Me
         url: /contact
         style: button
   - section_id: latest-projects
