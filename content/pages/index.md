@@ -82,7 +82,8 @@ sections:
         style: button
 seo:
   title: Elodie Kane
-  description: The preview of the Exto theme
+  description: |
+    Student Software Developer
   extra:
     - name: 'og:type'
       value: website
