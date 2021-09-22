@@ -3,7 +3,7 @@ subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/NN_SoundWave.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: /images/NN_SoundWave-16588658.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
