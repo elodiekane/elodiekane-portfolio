@@ -101,8 +101,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Elodie Kane
-    - name: 'twitter:description'
-      value: The preview of the Exto theme
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
