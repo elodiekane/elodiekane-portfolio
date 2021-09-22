@@ -1,7 +1,7 @@
 ---
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: /images/NN_AudioWave.PNG
+thumb_image: /images/NN_SoundWave.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
