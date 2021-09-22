@@ -2,7 +2,7 @@
 title: Movie DataBase Web Application
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: /images/2.jpg
+thumb_image: /images/web_MovieReel-eb12e920.png
 thumb_image_alt: An orange on a blue background
 image: /images/NN_Spectrogram.PNG
 image_alt: An orange on a blue background
