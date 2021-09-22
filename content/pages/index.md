@@ -82,8 +82,7 @@ sections:
         style: button
 seo:
   title: Elodie Kane
-  description: |
-    Student Software Developer
+  description: 'Student Software Developer, enthusiastic about AI and cognition.'
   extra:
     - name: 'og:type'
       value: website
