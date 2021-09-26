@@ -19,16 +19,6 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
     subtitle: What's Elodie Been Tinkering With?
-  - section_id: latest-posts
-    type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-      - label: View Blog
-        url: blog
-        style: button
 seo:
   title: Elodie Kane
   description: 'Student Software Developer, enthusiastic about AI and cognition.'
