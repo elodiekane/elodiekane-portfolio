@@ -1,9 +1,8 @@
 ---
-subtitle: Optional Project Subtitle
+subtitle: Written in a Jypyter Notebook using Google Colab and Tensorflow
 date: '2019-05-10'
 thumb_image: /images/NN_Headphones.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
-image: /images/NN_SoundWave-16588658.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
@@ -34,11 +33,16 @@ seo:
 layout: project
 title: Sound Classifier Neural Network
 ---
+I worked in a partnered project where we designed and implemented a 5-layer Convolutional Neural Network (CNN) for translating audio data into visual spectrograms.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Being able to identify sounds could be very useful in technology for those that are hearing impaired. This real-world application was a key motivator creating and training a network that could correctly classify a range of urban sound audio clips.
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+Dataset: [urbansound8k](https://urbansounddataset.weebly.com/urbansound8k.html)
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+![](/images/classesNN.PNG)
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+We formatted the data by translating the audio waves into spectrograms and then inputting the spectrogram images into the CNN model. Below is an example audio wave of a dog barking, and its accompanying spectrogram...
+
+![](/images/NN_AudioWave-e8c473ed.PNG)![](/images/NN_Spectrogram-922e481c.PNG)
+
+Following this, we then trained and evaluated using 10-fold cross validation, and the best accuracy was saved for any future testing.
