@@ -1,7 +1,7 @@
 ---
 title: About Elodie
 subtitle: Enthusiastic about Cognition and AI
-image_alt: Elodie
+image_alt: Elodie's Headshot
 seo:
   title: About Us
   description: This is the about us page
