@@ -41,6 +41,10 @@ Dataset: [urbansound8k](https://urbansounddataset.weebly.com/urbansound8k.html)
 
 ![](/images/classesNN.PNG)
 
-*   Formatted the data by translating the wavs into spectrograms and then inputting the spectrogram images into the CNN model
+We formatted the data by translating the audio waves into spectrograms and then inputting the spectrogram images into the CNN model. Below is an example audio wave of a dog barking, and its accompanying spectrogram...
 
-*   Trained and evaluated using cross validation with 10 folds, best accuracy is saved for any future testing
+![](/images/NN_AudioWave-e8c473ed.PNG)![](/images/NN_Spectrogram-922e481c.PNG)
+
+
+
+Following this, we then trained and evaluated using 10-fold cross validation, and the best accuracy was saved for any future testing
