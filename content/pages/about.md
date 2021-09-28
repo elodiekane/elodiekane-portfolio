@@ -29,6 +29,7 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
+image: /images/elodie-headshot-4a664d3d.jpg
 ---
 Seeking a Co-op/Internship for January 2022 in Ottawa, Toronto, or Waterloo areas.
 
