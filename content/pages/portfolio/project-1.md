@@ -39,9 +39,13 @@ Being able to identify sounds could be very useful in technology for those that 
 
 Dataset: [urbansound8k](https://urbansounddataset.weebly.com/urbansound8k.html)
 
+There were 10 classes within this audio dataset. The distribution can be seen below:
+
+
+
 ![](/images/classesNN.PNG)
 
-We formatted the data by translating the audio waves into spectrograms and then inputting the spectrogram images into the CNN model. Below is an example audio wave of a dog barking, and its accompanying spectrogram...
+We formatted the data by translating the audio waves into spectrograms and then inputting the spectrogram images into the CNN model. Below is an example audio wave of a dog barking, and its accompanying spectrogram:
 
 ![](/images/NN_AudioWave-e8c473ed.PNG)![](/images/NN_Spectrogram-922e481c.PNG)
 
