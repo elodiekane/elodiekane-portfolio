@@ -9,17 +9,21 @@ sections:
       - image_alt: Elodie Headshot
         actions: []
         image: /images/elodie-headshot.jpg
-      - content: >-
-          ## Lorem ipsum
+      - content: |+
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          > Email: 
+          >
+          > [elodie.kane@carleton.ca](elodie.kane)
 
+          > LinkedIn: 
+          >
+          > [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
 
-          - Lorem ipsum
+          > GitHub: 
+          >
+          > [elodiekane](https://github.com/elodiekane)
 
-          - dolor sit amet
         actions: []
     type: section_grid
 seo:
