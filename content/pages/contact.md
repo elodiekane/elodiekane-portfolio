@@ -6,7 +6,7 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - image_alt: lorem-ipsum
+      - image_alt: Elodie Headshot
         content: >-
           ## Lorem ipsum
 
