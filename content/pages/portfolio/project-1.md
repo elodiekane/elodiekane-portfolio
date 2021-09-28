@@ -1,5 +1,7 @@
 ---
-subtitle: Optional Project Subtitle
+subtitle: >-
+  Designed and implemented a 5-layer Convolutional Neural Network for
+  translating audio data into visual spectrograms
 date: '2019-05-10'
 thumb_image: /images/NN_Headphones.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
