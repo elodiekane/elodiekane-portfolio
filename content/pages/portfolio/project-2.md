@@ -1,6 +1,6 @@
 ---
 title: Movie DataBase Web Application
-subtitle: Optional Project Subtitle
+subtitle: RESTful design utilizing a Node.js server and MongoDB database
 date: '2019-04-30'
 thumb_image: /images/web_Movie-942fb68e.jpg
 thumb_image_alt: An orange on a blue background
