@@ -5,14 +5,22 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Hi there! 
-      
-      Thank you so much for your interest in working together. You can contact me in the following ways:
-
-      Email: [elodie.kane@carleton.ca](mailto:elodie.kane@carleton.ca)
+      Hi there!
 
 
 
+      Thank you so much for your interest in working together. Here are some
+      ways you can find/reach me...
+
+
+
+      Email: <elodie.kane@carleton.ca>
+
+
+      LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
+
+
+      GitHub: [elodiekane](https://github.com/elodiekane)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
