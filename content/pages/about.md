@@ -52,6 +52,6 @@ Seeking a Co-op/Internship for January 2022 in Ottawa, Toronto, or Waterloo area
 
 *   Strong communication, advanced fluency in English
 
-*   Great leadership skills, honed through previous supervisory roles 
+*   Great leadership skills, honed through previous supervisory roles
 
-*   Excellent time management 
+*   Excellent time management
