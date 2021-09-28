@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Elodie
+      value: About Us
       keyName: property
     - name: 'og:description'
       value: This is the about us page
