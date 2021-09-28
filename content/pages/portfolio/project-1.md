@@ -3,7 +3,6 @@ subtitle: Written in a Jypyter notebook using Google Colab and Tensorflow
 date: '2019-05-10'
 thumb_image: /images/NN_Headphones.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
-image: /images/NN_SoundWave-16588658.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
