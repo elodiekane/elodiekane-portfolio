@@ -35,6 +35,6 @@ layout: project
 ---
 Created a web application similar to IMDb that allowed signed-in contributing users to browse, add, and update movie information.
 
-This was built using Express for the backend and MongoDB as a NoSQL database program. 
+This was built using Express for the backend and MongoDB as a NoSQL database program.
 
-We also utilized Pug to make it easier to write re-usable dynamic code for HTML, and easily render information pulled from the database
+Utilized Pug to make it easier to write re-usable dynamic code for HTML, and easily render information pulled from the database
