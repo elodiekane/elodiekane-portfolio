@@ -2,7 +2,7 @@
 title: Contact
 hide_title: false
 sections:
-  - title: lorem-ipsum
+  - title: 'Social '
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
