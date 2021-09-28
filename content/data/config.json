@@ -52,7 +52,7 @@
                 "url": "mailto:elodie.kane@carleton.ca",
                 "style": "button",
                 "icon": "dribbble",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ]
