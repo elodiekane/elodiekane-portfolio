@@ -10,6 +10,9 @@ sections:
         actions: []
         image: /images/elodie-headshot.jpg
       - content: >
+          ### Ways to find Elodie:
+
+
           ##### Email: [elodie.kane@carleton.ca](elodie.kane)
 
 
