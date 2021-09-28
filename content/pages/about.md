@@ -1,7 +1,6 @@
 ---
 title: About Elodie
 subtitle: Enthusiastic about Cognition and AI
-image: /images/elodie-headshot.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
