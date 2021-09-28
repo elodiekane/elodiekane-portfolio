@@ -1,6 +1,6 @@
 ---
 title: About Elodie
-subtitle: This is a short page about us and our work.
+subtitle: Enthusiastic about Cognition and AI
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
