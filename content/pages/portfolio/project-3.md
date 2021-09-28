@@ -33,7 +33,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Written in Java, we created simulation where a Roomba-like robot identifies its environment through the use of cameras, proximity sensors, and accelerometers. 
+Simulation where a Roomba-like robot identifies its environment through the use of cameras, proximity sensors, and accelerometers.
 
 ![](/images/weBots-0c989424.JPG)
 
