@@ -1,5 +1,5 @@
 ---
-subtitle: Written in a Jypyter Notebook using Google Colab and Tensorflow
+subtitle: Written in a Jupyter Notebook using Google Colab and Tensorflow
 date: '2019-05-10'
 thumb_image: /images/NN_Headphones.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
