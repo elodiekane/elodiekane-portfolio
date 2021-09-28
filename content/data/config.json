@@ -46,9 +46,16 @@
                 "icon": "github",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "elodie.kane@carleton.ca",
+                "url": "mailto:elodie.kane@carleton.ca",
+                "style": "button",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false
             }
-        ],
-        "content": "elodie.kane@carleton.ca"
+        ]
     },
     "domain": "https://elodiekane-portfolio-8e659.netlify.app"
 }
