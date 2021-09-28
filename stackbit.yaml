@@ -48,7 +48,6 @@ models:
         name: domain
         label: Domain
         description: >-
-          The domain of your site, including the protocol, e.g.
           https://www.example.com/
       - type: image
         name: favicon
