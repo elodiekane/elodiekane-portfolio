@@ -6,10 +6,11 @@ sections:
     type: section_form
     content: >
       Hi there! Thank you so much for your interest in working together. You can contact me in the following ways:
+      
       Email: [elodie.kane@carleton.ca](mailto:elodie.kane@carleton.ca)
 
 
-      
+
     form_id: contactForm
     form_action: /thank-you
     form_fields:
