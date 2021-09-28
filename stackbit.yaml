@@ -48,7 +48,7 @@ models:
         name: domain
         label: Domain
         description: >-
-          https://www.example.com/
+          https://www.elodiekane.com/
       - type: image
         name: favicon
         label: Favicon
