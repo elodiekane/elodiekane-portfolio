@@ -33,21 +33,22 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/elodie-kane/",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/elodiekane",
+                "style": "icon",
+                "icon": "github",
+                "new_window": false,
+                "no_follow": false
             }
         ],
-        "content": "Elodie Kane"
+        "content": "elodie.kane@carleton.ca"
     },
     "domain": "https://elodiekane-portfolio-8e659.netlify.app"
 }

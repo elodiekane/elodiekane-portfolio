@@ -1,8 +1,7 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-image: images/about.jpg
-image_alt: A man taking a picture
+title: About Elodie
+subtitle: Enthusiastic about Cognition and AI
+image_alt: Elodie Headshot
 seo:
   title: About Us
   description: This is the about us page
@@ -30,12 +29,30 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
+image: /images/elodie-headshot.jpg
 ---
+Seeking a Co-op/Internship for January 2022 in Ottawa, Toronto, or Waterloo areas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+**Some of my technical skills include:**
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+*   Well-practiced with a variety of languages such as Java, C/C++ and Python
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+*   Exposure to AI development using tools such as TensorFlow, Jupyter, and scikit-learn
 
-*Thank You for reading!*
+*   Experience in web development, familiar with JavaScript, HTML and CSS, as well as Node.js servers and MongoDB databases
+
+*   Ongoing practice with 3D simulation software using Java and Webots
+
+*   Thorough understanding of Linux and Windows environments
+
+**Soft Skills:**
+
+*   Great analytical skills and attention to detail, especially with data and code
+
+*   Fast and willing learner, can learn platforms and frameworks quickly
+
+*   Strong communication, advanced fluency in English
+
+*   Great leadership skills, honed through previous supervisory roles
+
+*   Excellent time management
