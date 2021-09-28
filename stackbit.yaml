@@ -40,8 +40,7 @@ models:
         name: path_prefix
         label: Base URL
         description: >-
-          The base URL of this site. Useful for sites hosted under specific
-          path, e.g.: https://www.example.com/my-site/
+          https://www.elodiekane.com/
         required: true
         hidden: true
       - type: string
