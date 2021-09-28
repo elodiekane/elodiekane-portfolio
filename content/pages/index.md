@@ -16,7 +16,6 @@ sections:
     layout_style: mosaic
     title: Recent Projects
     projects_number: 4
-    view_all_label: View All
     view_all_url: portfolio
     subtitle: What's Elodie Been Tinkering With?
 seo:
