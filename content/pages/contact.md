@@ -4,7 +4,6 @@ hide_title: false
 sections:
   - title: Social Media
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: three
     is_numbered: false
     grid_items:
