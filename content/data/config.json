@@ -47,6 +47,16 @@
                 "new_window": false,
                 "no_follow": false
             }
+        ],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false
+            }
         ]
     },
     "domain": "https://elodiekane-portfolio-8e659.netlify.app"
