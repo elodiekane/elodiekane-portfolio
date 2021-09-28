@@ -32,13 +32,7 @@ layout: page
 ---
 Seeking a Co-op/Internship for January 2022 in Ottawa, Toronto, or Waterloo areas.
 
-
-
-My natural enthusiasm is complemented by a diligent approach to everything I undertake. 
-
-
-
-Some of my technical skills include:
+**Some of my technical skills include:**
 
 *   Well-practiced with a variety of languages such as Java, C/C++ and Python
 
@@ -50,17 +44,14 @@ Some of my technical skills include:
 
 *   Thorough understanding of Linux and Windows environments
 
-
-
-Soft Skills:
+**Soft Skills:**
 
 *   Great analytical skills and attention to detail, especially with data and code
 
 *   Fast and willing learner, can learn platforms and frameworks quickly
 
+*   Strong communication, advanced fluency in English
 
+*   Great leadership skills, honed through previous supervisory roles 
 
-
-
-
-
+*   Excellent time management 
