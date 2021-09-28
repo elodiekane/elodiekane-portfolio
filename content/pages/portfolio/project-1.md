@@ -1,7 +1,5 @@
 ---
-subtitle: >-
-  Designed and implemented a 5-layer Convolutional Neural Network (CNN) for
-  translating audio data into visual spectrograms
+subtitle: Written in a Jypyter notebook using Google Colab and Tensorflow
 date: '2019-05-10'
 thumb_image: /images/NN_Headphones.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
