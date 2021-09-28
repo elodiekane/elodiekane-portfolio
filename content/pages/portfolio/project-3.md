@@ -33,7 +33,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Simulation where a Roomba-like robot identifies its environment through the use of cameras, proximity sensors, and accelerometers.
+Created a simulation where a Roomba-like robot identifies its environment through the use of cameras, proximity sensors, and accelerometers.
 
 ![](/images/weBots-0c989424.JPG)
 
