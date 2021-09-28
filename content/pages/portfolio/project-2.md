@@ -33,8 +33,13 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Created a web application similar to IMDb that allowed signed-in contributing users to browse, add, and update movie information.
+Movie Database is an IMDB-inspired web application created using a node.js server that allows users to browse, and contribute information on various movies, actors and other users. 
 
-This was built using Express for the backend and MongoDB as a NoSQL database program.
+*   This application was developed in the context of Carleton's computer science course: Fundamentals of Web Applications.
 
-Utilized Pug to make it easier to write re-usable dynamic code for HTML, and easily render information pulled from the database
+*   Built using Express for the backend and MongoDB as a NoSQL database program.
+
+*   Utilized Pug to make it easier to write re-usable dynamic code for HTML, and easily render information pulled from the database.
+
+
+
