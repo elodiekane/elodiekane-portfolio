@@ -9,8 +9,7 @@ sections:
       - image_alt: Elodie Headshot
         actions: []
         image: /images/elodie-headshot.jpg
-      - image_alt: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
