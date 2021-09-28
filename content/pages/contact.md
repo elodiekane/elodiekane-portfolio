@@ -10,17 +10,11 @@ sections:
         actions: []
         image: /images/elodie-headshot.jpg
       - content: |
-          > ###### Email:
-          >
-          > ###### [elodie.kane@carleton.ca](elodie.kane)
+          ## Email: [elodie.kane@carleton.ca](elodie.kane)
 
-          > ###### LinkedIn:
-          >
-          > ###### [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
+          ## LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
 
-          > ###### GitHub:
-          >
-          > ###### [elodiekane](https://github.com/elodiekane)
+          ## GitHub: [elodiekane](https://github.com/elodiekane)
         actions: []
     type: section_grid
 seo:
