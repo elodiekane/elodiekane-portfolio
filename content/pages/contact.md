@@ -7,17 +7,6 @@ sections:
     is_numbered: false
     grid_items:
       - image_alt: Elodie Headshot
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image: /images/elodie-headshot.jpg
     type: section_grid
