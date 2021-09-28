@@ -21,6 +21,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: /images/elodie-headshot.jpg
     type: section_grid
 seo:
   title: Contact
