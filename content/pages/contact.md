@@ -13,7 +13,7 @@ sections:
           ### Ways to find Elodie:
 
 
-          ##### Email: [elodie.kane@carleton.ca](elodie.kane)
+          ##### Email: [elodie.kane@carleton.ca](mailto:elodie.kane)
 
 
           ##### LinkedIn:
