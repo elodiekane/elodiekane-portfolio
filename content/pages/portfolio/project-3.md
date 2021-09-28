@@ -1,6 +1,6 @@
 ---
 title: Robot Homing & Tracking Simulation
-subtitle: Optional Project Subtitle
+subtitle: 'Written In Java, using Webots, a 3D robotics simulation software'
 date: '2019-04-08'
 thumb_image: /images/weBots2.JPG
 thumb_image_alt: A yellow retro telephone on a yellow background
