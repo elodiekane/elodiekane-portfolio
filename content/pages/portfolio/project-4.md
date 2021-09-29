@@ -6,7 +6,7 @@ thumb_image: /images/AI_Pets.jpg
 thumb_image_alt: A table tennis racket on a pink background
 image_alt: A table tennis racket on a pink background
 seo:
-  title: Project Title 4
+  title: Image Classifier Neural Network
   description: This is the project 4 description
   extra:
     - name: 'og:type'

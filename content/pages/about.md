@@ -30,7 +30,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Seeking a Co-op/Internship for January 2022 in Ottawa, Toronto, or Waterloo areas.
+Seeking a Co-op/Internship for January 2022 in Ottawa, Toronto, or Waterloo.
 
 **Some of my technical skills include:**
 

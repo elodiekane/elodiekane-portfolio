@@ -6,7 +6,7 @@ thumb_image: /images/web_Movie-942fb68e.jpg
 thumb_image_alt: An orange on a blue background
 image_alt: An orange on a blue background
 seo:
-  title: Movie Database
+  title: Movie Database Web Application
   description: This is the project 2 description
   extra:
     - name: 'og:type'
