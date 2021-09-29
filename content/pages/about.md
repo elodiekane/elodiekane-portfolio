@@ -44,7 +44,7 @@ Seeking a Co-op/Internship for January 2022 in Ottawa, Toronto, or Waterloo.
 
 *   Thorough understanding of Linux and Windows environments
 
-**Soft Skills:**
+**Some of my soft skills include:**
 
 *   Great analytical skills and attention to detail, especially with data and code
 
