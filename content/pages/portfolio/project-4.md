@@ -37,5 +37,16 @@ Designed and implemented a Convolutional Neural Network to classify 60000 32x32 
 
 **Dataset:** [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
+Below is an image demonstrating the 10 different classes that the network was able to identify.
+
 ![](/images/CIFAR.JPG)
 
+
+
+We achieved accuracy scores of 91% for the training data and an 80% overall testing accuracy.
+
+After creating an accurate model, we then implemented an interactive app that allowed users to classify their own images.  
+
+Below is a screenshot of the network correctly classifying my team member's dog:
+
+ 
