@@ -6,7 +6,7 @@ thumb_image: /images/weBots2.JPG
 thumb_image_alt: A yellow retro telephone on a yellow background
 image_alt: A yellow retro telephone on a yellow background
 seo:
-  title: Project Title 3
+  title: Robot Homing & Tracking Simulation
   description: This is the project 3 description
   extra:
     - name: 'og:type'
