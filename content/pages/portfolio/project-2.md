@@ -6,7 +6,7 @@ thumb_image: /images/web_Movie-942fb68e.jpg
 thumb_image_alt: An orange on a blue background
 image_alt: An orange on a blue background
 seo:
-  title: Project Title 2
+  title: Movie Database
   description: This is the project 2 description
   extra:
     - name: 'og:type'
