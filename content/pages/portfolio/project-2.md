@@ -1,5 +1,5 @@
 ---
-title: Movie DataBase Web Application
+title: Movie Database Web Application
 subtitle: RESTful design utilizing a Node.js server and MongoDB database
 date: '2019-04-30'
 thumb_image: /images/web_Movie-942fb68e.jpg
