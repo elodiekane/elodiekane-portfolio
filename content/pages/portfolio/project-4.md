@@ -46,3 +46,5 @@ We achieved accuracy scores of 91% for the training data and an 80% overall test
 After creating an accurate model, we then implemented an interactive app that allowed users to classify their own images.
 
 Below is a screenshot of the network correctly classifying my team member's dog:
+
+![](/images/AI_Dog-67270b0f.PNG)
