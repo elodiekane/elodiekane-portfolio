@@ -4,7 +4,7 @@ subtitle: Enthusiastic about Cognition and AI
 image_alt: Elodie's Headshot
 seo:
   title: About Elodie
-  description: This is the about us page
+  description: This is the about Elodie page
   extra:
     - name: 'og:type'
       value: website
