@@ -3,8 +3,8 @@ title: About Elodie
 subtitle: Enthusiastic about Cognition and AI
 image_alt: Elodie's Headshot
 seo:
-  title: About Us
-  description: This is the about us page
+  title: About Elodie
+  description: This is the about Elodie page
   extra:
     - name: 'og:type'
       value: website
@@ -44,7 +44,7 @@ Seeking a Co-op/Internship for January 2022 in Ottawa, Toronto, or Waterloo.
 
 *   Thorough understanding of Linux and Windows environments
 
-**Soft Skills:**
+**Some of my soft skills include:**
 
 *   Great analytical skills and attention to detail, especially with data and code
 
