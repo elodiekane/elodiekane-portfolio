@@ -5,7 +5,7 @@ thumb_image: /images/NN_Headphones.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image_alt: 'White, black, and red shoe sole'
 seo:
-  title: Project Title 1
+  title: Sound Classifier
   description: This is the project 1 description
   extra:
     - name: 'og:type'
