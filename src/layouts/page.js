@@ -19,7 +19,7 @@ export default class Page extends React.Component {
             <Layout page={page} config={config}>
                 <div className="inner outer">
                     <article className="post post-full">
-                        <header className="post-header inner-sm">
+                        <header className="post-header inner-sm" style={{     margin-left: '13%' }}>
                             <h1 className="post-title line-top">{title}</h1>
                             {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
                         </header>
