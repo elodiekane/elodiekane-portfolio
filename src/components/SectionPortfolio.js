@@ -29,7 +29,7 @@ export default class SectionPortfolio extends React.Component {
                     <Link href={projectUrl} className="project-link">
                         {thumbImage && (
                             <div className="project-thumbnail">
-                                <img src={withPrefix(thumbImage)} alt={thumbImageAlt} style={}/>
+                                <img src={withPrefix(thumbImage)} alt={thumbImageAlt} style={{ }}/>
                             </div>
                         )}
                         <header className="project-header">
