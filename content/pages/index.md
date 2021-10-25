@@ -11,7 +11,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: About Me
         url: '#'
         style: link
         icon: dribbble
