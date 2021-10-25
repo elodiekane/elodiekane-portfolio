@@ -58,7 +58,7 @@ export default class SectionGrid extends React.Component {
                             <div
                                 className={classNames('grid', {
                                     'grid-col-2': colNumber === 'two',
-
+                                    'grid-col-3': colNumber === 'three'
                                 })}
                             >
                                 {_.map(gridItems, (gridItem, index) => this.renderGridItem(gridItem, index, isNumbered))}
