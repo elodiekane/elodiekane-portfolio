@@ -10,7 +10,6 @@ sections:
         actions: []
         image: /images/elodie-headshot.jpg
       - content: >
-- content: >
           ###
 
 
