@@ -42,6 +42,8 @@ I am at university in the hope of working in the expertise of Artificial Intelli
     👩‍💻 Ongoing practice with 3D simulation software using Java and Webots  
     👩‍💻 Thorough understanding of Linux and Windows environments  
 
+****
+
 **Some of my soft skills include:**
 
     🧠 Great analytical skills and attention to detail, especially with data and code  
