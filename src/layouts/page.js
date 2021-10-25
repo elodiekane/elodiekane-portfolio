@@ -24,7 +24,7 @@ export default class Page extends React.Component {
                             {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
                         </header>
                         {image && (
-                            <div className="post-image" style={{ borderRadius: 30 }}>
+                            <div className="post-image">
                                 <img src="/images/elodie-headshot.jpg" alt={imageAlt} />
                             </div>
                         )}
