@@ -25,8 +25,7 @@ sections:
           ##### GitHub: [elodiekane](https://github.com/elodiekane)
         actions: []
     type: section_grid
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
