@@ -19,7 +19,7 @@ sections:
         icon: dribbble
         new_window: false
         no_follow: false
-      - label: Contact Ass
+      - label: Contact Me
         url: /contact
         style: button
   - section_id: latest-projects
