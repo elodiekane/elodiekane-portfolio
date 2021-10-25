@@ -13,15 +13,15 @@ sections:
         icon: dribbble
         new_window: false
         no_follow: false
-      - label: Contact Me
-        url: /contact
-        style: button
       - label: Projects
         url: /portfolio
         style: button
         icon: dribbble
         new_window: false
         no_follow: false
+      - label: Contact Me
+        url: /contact
+        style: button
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
