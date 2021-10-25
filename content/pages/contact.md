@@ -10,9 +10,8 @@ sections:
         actions: []
         image: /images/elodie-headshot.jpg
       - content: >
+- content: >
           ###
-
-
 
 
           ##### Email: <elodie.kane@carleton.ca>
