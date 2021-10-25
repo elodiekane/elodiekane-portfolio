@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Elodie Kane'
-    content: "Enthusiastic about Cognition and AI \U0001F9E0\n"
+    content: "\U0001F9E0 Enthusiastic about Cognition and AI\n"
     actions:
       - label: About Me
         url: /about
