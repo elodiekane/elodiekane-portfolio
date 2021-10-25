@@ -27,11 +27,11 @@ sections:
     type: section_grid
   - image_alt: lorem-ipsum
     content: |
-      ##### Email: <elodie.kane@carleton.ca>
+      ##### Email: 
 
-      ##### LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
+      ##### Github:
 
-      ##### GitHub: [elodiekane](https://github.com/elodiekane)
+      ##### LinkedIn:
     type: section_content
 seo:
   title: Contact
