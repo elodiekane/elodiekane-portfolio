@@ -29,7 +29,7 @@ sections:
     content: |
       ##### Email: <elodie.kane@carleton.ca>
 
-      ##### LinkedIn: 
+      ##### LinkedIn: elodie-kane
 
       ##### Github:
 
