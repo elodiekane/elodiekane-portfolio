@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: button
       - label: About Me
-        url: '#'
+        url: /about
         style: link
         icon: dribbble
         new_window: false
