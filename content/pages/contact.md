@@ -1,5 +1,5 @@
 ---
-title: Contact Ass
+title: Contact Me
 hide_title: false
 sections:
   - section_id: ContactInfo
@@ -25,15 +25,15 @@ sections:
     type: section_grid
   - image_alt: lorem-ipsum
     content: |
-          ###
-          ##### Email: <elodie.kane@carleton.ca>
+      ###
+      ##### Email: <elodie.kane@carleton.ca>
 
 
-          ##### LinkedIn:
-          [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
+      ##### LinkedIn:
+      [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
 
 
-          ##### GitHub: [elodiekane](https://github.com/elodiekane)
+      ##### GitHub: [elodiekane](https://github.com/elodiekane)
     type: section_content
 seo:
   title: Contact
