@@ -43,6 +43,7 @@ I am at university in the hope of working in the expertise of Artificial Intelli
 👩‍💻 Experience in web development, familiar with JavaScript, HTML and CSS, as well as Node.js servers and MongoDB databases
 
 👩‍💻 Ongoing practice with 3D simulation software using Java and Webots
+
 👩‍💻 Thorough understanding of Linux and Windows environments
 
 **Some of my soft skills include:**
