@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'hi, i''m Elodie Kane'
+    title: 'Hi, I''m Elodie Kane'
     content: "\U0001F9E0 Enthusiastic about Cognition and AI\n"
     actions:
       - label: About Me
