@@ -25,7 +25,7 @@ export default class Page extends React.Component {
                         </header>
                         {image && (
                             <div className="post-image">
-                                <img src="/images/elodie-headshot.jpg" alt={imageAlt} style={{ width: 200, borderRadius: 50 }}/>
+                                <img src="/images/elodie-headshot.jpg" alt={imageAlt} style={{ width: 200, borderRadius: 100 }}/>
                             </div>
                         )}
                         {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
