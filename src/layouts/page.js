@@ -22,14 +22,12 @@ export default class Page extends React.Component {
                         <header className="post-header inner-sm">
                             <h1 className="post-title line-top">{title}</h1>
                             {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
-                        
-                            {image && (
+                        </header>
+                        {image && (
                             <div className="post-image">
                                 <img src="/images/elodie-headshot.jpg" alt={imageAlt} style={{ width: 200, borderRadius: 100 }}/>
                             </div>
                         )}
-                        </header>
-                        
                         {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
                     </article>
                 </div>
