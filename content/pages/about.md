@@ -13,7 +13,7 @@ seo:
       value: About Us
       keyName: property
     - name: 'og:description'
-      value: This is the about elodie page
+      value: This is the about Elodie page
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
