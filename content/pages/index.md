@@ -17,7 +17,7 @@ sections:
         url: /contact
         style: button
       - label: Projects
-        url: '#'
+        url: /
         style: link
         icon: dribbble
         new_window: false
