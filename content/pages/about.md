@@ -47,7 +47,7 @@ I am at university in the hope of working in the expertise of Artificial Intelli
     🧠 Great analytical skills and attention to detail, especially with data and code  
     🧠 Fast and willing learner, can learn platforms and frameworks quickly
 
-    *   Strong communication, advanced fluency in English
+    🧠Strong communication, advanced fluency in English
 
     *   Great leadership skills, honed through previous supervisory roles
 
