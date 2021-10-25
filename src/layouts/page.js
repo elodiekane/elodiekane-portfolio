@@ -22,6 +22,8 @@ export default class Page extends React.Component {
                         <header className="post-header inner-sm">
                             <h1 className="post-title line-top">{title}</h1>
                             {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
+                        
+                        
                         </header>
                         
                         {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
