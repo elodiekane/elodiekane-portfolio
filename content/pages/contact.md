@@ -14,7 +14,7 @@ sections:
           ###
 
 
-          ##### Email: <elodie.kane@carleton.ca>
+          ##### Email: <elodie.kane@carleton.ca> hello
 
 
           ##### LinkedIn:
