@@ -27,8 +27,6 @@ sections:
   - image_alt: lorem-ipsum
     content: |
       ###
-
-
           ##### Email: <elodie.kane@carleton.ca>
 
 
