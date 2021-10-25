@@ -9,6 +9,7 @@ sections:
       - image_alt: Elodie Headshot
         actions: []
         image: /images/elodie-headshot.jpg
+        title: hello
       - content: >
           ###
 
