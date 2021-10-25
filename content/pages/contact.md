@@ -29,17 +29,12 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ##### Email: <elodie.kane@carleton.ca>
 
+      ##### LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      ##### GitHub: [elodiekane](https://github.com/elodiekane)
     type: section_content
 seo:
   title: Contact
