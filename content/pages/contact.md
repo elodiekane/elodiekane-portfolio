@@ -25,8 +25,7 @@ sections:
           ##### GitHub: [elodiekane](https://github.com/elodiekane)
         actions: []
     type: section_grid
-  - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
       ##### Email: <elodie.kane@carleton.ca>
