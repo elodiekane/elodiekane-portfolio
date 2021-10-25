@@ -26,7 +26,7 @@ sections:
         actions: []
     type: section_grid
   - subtitle: lorem-ipsum
-    col_number: two
+    col_number: three
     is_numbered: false
     grid_items:
       - title: lorem-ipsum
