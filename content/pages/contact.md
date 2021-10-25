@@ -29,9 +29,11 @@ sections:
     content: |
       ##### Email: <elodie.kane@carleton.ca>
 
+      ##### LinkedIn: 
+
       ##### Github:
 
-      ##### LinkedIn:
+      #####
     type: section_content
 seo:
   title: Contact
