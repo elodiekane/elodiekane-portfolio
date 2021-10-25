@@ -17,7 +17,7 @@ sections:
         url: /contact
         style: button
       - label: Projects
-        url: 'https://www.elodiekane.com/portfolio/'
+        url: /portfolio
         style: link
         icon: dribbble
         new_window: false
