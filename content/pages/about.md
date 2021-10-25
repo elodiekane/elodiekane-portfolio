@@ -30,7 +30,13 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Seeking a Co-op/Internship for January 2022 in Ottawa, Toronto, or Waterloo.
+Seeking a Co-op/Internship for May 2022 in Ottawa, Toronto, or Waterloo.
+
+
+
+I am at university in the hope of working in the expertise of Artificial Intelligence. I find the workings of the mind fascinating, and think attempting to recreate the human mind is a great way to learn more about how we think.
+
+
 
 **Some of my technical skills include:**
 
