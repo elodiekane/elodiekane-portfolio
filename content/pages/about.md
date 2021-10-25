@@ -29,6 +29,7 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
+image: /images/Capture-365b2ccf.JPG
 ---
 Seeking a Co-op/Internship for May 2022 in Ottawa, Toronto, or Waterloo.
 
