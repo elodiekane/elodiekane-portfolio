@@ -1,5 +1,5 @@
 ---
-title: Contact Me
+title: Contact Bum
 hide_title: false
 sections:
   - section_id: ContactInfo
