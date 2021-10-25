@@ -37,7 +37,9 @@ I am at university in the hope of working in the expertise of Artificial Intelli
 **Some of my technical skills include:**
 
 👩‍💻 Well-practiced with a variety of languages such as Java, C/C++ and Python
+
 👩‍💻 Exposure to AI development using tools such as TensorFlow, Jupyter, and scikit-learn
+
 👩‍💻 Experience in web development, familiar with JavaScript, HTML and CSS, as well as Node.js servers and MongoDB databases
 👩‍💻 Ongoing practice with 3D simulation software using Java and Webots
 👩‍💻 Thorough understanding of Linux and Windows environments
