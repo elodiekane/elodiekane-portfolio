@@ -3,7 +3,7 @@ title: Contact Me
 hide_title: false
 sections:
   - section_id: ContactInfo
-    col_number: three
+    col_number: two
     is_numbered: false
     grid_items:
       - image_alt: Elodie Headshot
