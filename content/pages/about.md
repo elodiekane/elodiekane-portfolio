@@ -44,7 +44,7 @@ I am at university in the hope of working in the expertise of Artificial Intelli
 
 **Some of my soft skills include:**
 
-    *   Great analytical skills and attention to detail, especially with data and code
+    🧠 Great analytical skills and attention to detail, especially with data and code
 
     *   Fast and willing learner, can learn platforms and frameworks quickly
 
