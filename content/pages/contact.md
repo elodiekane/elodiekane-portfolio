@@ -27,7 +27,7 @@ sections:
     type: section_grid
   - image_alt: lorem-ipsum
     content: |
-      ##### Email: 
+      ##### Email: <elodie.kane@carleton.ca>
 
       ##### Github:
 
