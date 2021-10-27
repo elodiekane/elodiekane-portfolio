@@ -22,6 +22,7 @@ seo:
       value: This is the contact page
 layout: page
 ---
+**Test:**
 
       #### Email: <elodie.kane@carleton.ca>
 
