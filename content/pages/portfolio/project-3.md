@@ -35,7 +35,7 @@ layout: project
 ---
 Created a simulation where a Roomba-like robot identifies its environment through the use of cameras, proximity sensors, and accelerometers.
 
-The below image shows the robot in its environment, and the top left square shows the robot's camera view when attempting to identify the red balls.  
+The image below shows the robot in its environment, and the top left square shows the robot's camera view when attempting to identify the red balls.
 
 ![](/images/weBots-0c989424.JPG)
 
