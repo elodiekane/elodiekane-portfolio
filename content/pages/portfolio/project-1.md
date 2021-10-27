@@ -47,4 +47,4 @@ We formatted the data by translating the audio waves into spectrograms and then 
 
 ![](/images/NN_AudioWave-e8c473ed.PNG)![](/images/NN_Spectrogram-922e481c.PNG)
 
-Following this, we then trained and evaluated using 10-fold cross validation, and the best accuracy was saved for any future testing.
+Next, we then trained and evaluated using 10-fold cross validation, and the best accuracy was saved for any future testing.
