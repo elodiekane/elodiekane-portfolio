@@ -2,29 +2,16 @@
 title: Contact Me
 hide_title: false
 sections:
-  - section_id: ContactInfo
-    col_number: three
-    is_numbered: false
-    grid_items:
-      - image_alt: Elodie Headshot
-        actions: []
-        image: /images/elodie-headshot.jpg
-      - content: >
-          ###
+  - image_alt: lorem-ipsum
+    content: |
+      ###
 
+      ##### Email: <elodie.kane@carleton.ca>
 
+      ##### LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
 
-
-          ##### Email: <elodie.kane@carleton.ca>
-
-
-          ##### LinkedIn:
-          [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
-
-
-          ##### GitHub: [elodiekane](https://github.com/elodiekane)
-        actions: []
-    type: section_grid
+      ##### GitHub: [elodiekane](https://github.com/elodiekane)
+    type: section_content
 seo:
   title: Contact
   description: This is the contact page

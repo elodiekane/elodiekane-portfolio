@@ -1,6 +1,6 @@
 ---
 title: Robot Homing & Tracking Simulation
-subtitle: 'Written in Java, using Webots, a 3D robotics simulation software'
+subtitle: 'Written in Java, using Webots - 3D robotics simulation software'
 date: '2019-04-08'
 thumb_image: /images/weBots2.JPG
 thumb_image_alt: A yellow retro telephone on a yellow background
@@ -35,8 +35,8 @@ layout: project
 ---
 Created a simulation where a Roomba-like robot identifies its environment through the use of cameras, proximity sensors, and accelerometers.
 
-The below image shows the robot in its environment, and the top left square shows the robot's camera view when attempting to identify the red balls.  
+The image below shows the robot in its environment, and the top left square shows the robot's camera view when attempting to identify the red balls.
 
 ![](/images/weBots-0c989424.JPG)
 
-Once a red ball is identified, the robot navigates its environment with left and right motors to push the balls of the edge of the map.
+Once a red ball is identified, the robot navigates its environment with left and right motors to push the balls off the edge of the map.

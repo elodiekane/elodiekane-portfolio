@@ -33,13 +33,10 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Movie Database is an IMDB-inspired web application created using a node.js server that allows users to browse, and contribute information on various movies, actors and other users. 
+Movie Database is an IMDb-inspired web application created using a node.js server that allows users to browse and contribute information on various movies, actors and other users.
 
 *   This application was developed in the context of Carleton's computer science course: Fundamentals of Web Applications.
 
 *   Built using Express for the backend and MongoDB as a NoSQL database program.
 
 *   Utilized Pug to make it easier to write re-usable dynamic code for HTML, and easily render information pulled from the database.
-
-
-

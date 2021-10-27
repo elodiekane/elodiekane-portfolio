@@ -33,7 +33,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Designed and implemented a Convolutional Neural Network to identify and classify 60000 32x32 images.
+Designed and implemented a Convolutional Neural Network to identify and classify 60,000 32x32 images.
 
 **Dataset:** [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 

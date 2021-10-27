@@ -33,22 +33,23 @@ image: /images/Capture-365b2ccf.JPG
 ---
 Seeking a Co-op/Internship for May 2022 in Ottawa, Toronto, or Waterloo.
 
-I am at university in the hope of working in the expertise of Artificial Intelligence. I find the workings of the mind fascinating, and think attempting to recreate the human mind is a great way to learn more about how we think.
+I am at university in the hope of working in the field of Artificial Intelligence. I find the workings of the mind fascinating, and believe attempting to recreate the human mind is a great way to learn more about how we think.
 
 **Some of my technical skills include:**
 
     👩‍💻 Well-practiced with a variety of languages such as Java, C/C++ and Python  
     👩‍💻 Exposure to AI development using tools such as TensorFlow, Jupyter, and scikit-learn  
-    👩‍💻 Experience in web development, familiar with JavaScript, HTML and CSS, as well as Node.js servers and MongoDB databases  
-    👩‍💻 Ongoing practice with 3D simulation software using Java and Webots  
+    👩‍💻 Experience in web development, familiar with JavaScript, HTML and CSS
+    👩‍💻 Previous work with Node.js servers and MongoDB databases  
+    👩‍💻 On-going practice with 3D simulation software using Java and Webots  
     👩‍💻 Thorough understanding of Linux and Windows environments  
 
-****
+***
 
 **Some of my soft skills include:**
 
     🧠 Great analytical skills and attention to detail, especially with data and code  
-    🧠 Fast and willing learner, can learn platforms and frameworks quickly  
+    🧠 Fast and willing learner; can learn platforms and frameworks quickly  
     🧠 Strong communication, advanced fluency in English  
     🧠 Great leadership skills, honed through previous supervisory roles  
     🧠 Excellent time management  
