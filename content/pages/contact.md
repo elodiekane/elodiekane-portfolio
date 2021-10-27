@@ -9,6 +9,15 @@ sections:
       ##### LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
 
       ##### GitHub: [elodiekane](https://github.com/elodiekane)
+
+      **Some of my technical skills include:**
+
+    👩‍💻 Well-practiced with a variety of languages such as Java, C/C++ and Python  
+    👩‍💻 Exposure to AI development using tools such as TensorFlow, Jupyter, and scikit-learn  
+    👩‍💻 Experience in web development, familiar with JavaScript, HTML and CSS
+    👩‍💻 Previous work with Node.js servers and MongoDB databases  
+    👩‍💻 On-going practice with 3D simulation software using Java and Webots  
+    👩‍💻 Thorough understanding of Linux and Windows environments  
     type: section_content
 seo:
   title: Contact
