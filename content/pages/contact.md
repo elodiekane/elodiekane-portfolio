@@ -1,7 +1,6 @@
 ---
 title: Contact Me
 hide_title: false
-
 seo:
   title: Contact
   description: This is the contact page
@@ -25,8 +24,6 @@ layout: page
 ---
 **Test:**
 
-      #### Email: <elodie.kane@carleton.ca>
-
-      ##### LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
-
-      ##### GitHub: [elodiekane](https://github.com/elodiekane)
+    Email: <elodie.kane@carleton.ca>
+    LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
+    GitHub: [elodiekane](https://github.com/elodiekane)
