@@ -33,7 +33,7 @@ seo:
 layout: project
 title: Sound Classifier Neural Network
 ---
-I worked in a partnered project where we designed and implemented a 5-layer Convolutional Neural Network (CNN) for translating audio data into visual spectrograms.
+This partnered project involved designing and implementing a 5-layer Convolutional Neural Network (CNN) for translating audio data into visual spectrograms.
 
 Being able to identify sounds could be very useful in technology for those that are hearing impaired. This real-world application was a key motivator for creating and training a network that could correctly classify a range of urban sound audio clips.
 
