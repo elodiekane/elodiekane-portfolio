@@ -39,4 +39,4 @@ The image below shows the robot in its environment, and the top left square show
 
 ![](/images/weBots-0c989424.JPG)
 
-Once a red ball is identified, the robot navigates its environment with left and right motors to push the balls of the edge of the map.
+Once a red ball is identified, the robot navigates its environment with left and right motors to push the balls off the edge of the map.
