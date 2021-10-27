@@ -27,9 +27,7 @@ layout: page
 <https://www.linkedin.com/in/elodie-kane/>
 
 ```
-Email: <elodie.kane@carleton.ca>    
-LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)    
-GitHub: [elodiekane](https://github.com/elodiekane)
+
 
 
 ```
