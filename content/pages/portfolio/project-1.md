@@ -35,13 +35,11 @@ title: Sound Classifier Neural Network
 ---
 I worked in a partnered project where we designed and implemented a 5-layer Convolutional Neural Network (CNN) for translating audio data into visual spectrograms.
 
-Being able to identify sounds could be very useful in technology for those that are hearing impaired. This real-world application was a key motivator creating and training a network that could correctly classify a range of urban sound audio clips.
+Being able to identify sounds could be very useful in technology for those that are hearing impaired. This real-world application was a key motivator for creating and training a network that could correctly classify a range of urban sound audio clips.
 
 Dataset: [urbansound8k](https://urbansounddataset.weebly.com/urbansound8k.html)
 
 There were 10 classes within this audio dataset. The distribution can be seen below:
-
-
 
 ![](/images/classesNN.PNG)
 
