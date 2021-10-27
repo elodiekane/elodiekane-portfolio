@@ -34,7 +34,7 @@ layout: advanced
 ---
 **Some of my technical skills include:**
 
-     ##### Email: <elodie.kane@carleton.ca>
+      #### Email: <elodie.kane@carleton.ca>
 
       ##### LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
 
