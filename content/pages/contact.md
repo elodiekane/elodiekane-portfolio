@@ -32,7 +32,7 @@ seo:
       value: This is the contact page
 layout: advanced
 ---
-**Some of my technical skills include:**
+**Test:**
 
       #### Email: <elodie.kane@carleton.ca>
 
