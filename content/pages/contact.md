@@ -26,4 +26,4 @@ layout: page
 
 ##### Linkedin: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
 
-##### Github: 
+##### Github: [elodiekane](https://github.com/elodiekane)
