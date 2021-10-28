@@ -22,10 +22,8 @@ seo:
       value: This is the contact page
 layout: page
 ---
-**Please find my links below...**
+##### **Please find my links below...**
 
-<https://www.linkedin.com/in/elodie-kane/>
+##### Linkedin: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
 
-
-this is a test 123
-
+##### Github: 
