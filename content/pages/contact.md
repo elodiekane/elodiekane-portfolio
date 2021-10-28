@@ -25,7 +25,6 @@ layout: page
 **Please find my links below...**
 
 <https://www.linkedin.com/in/elodie-kane/>
-testing testing 123
 
 
 this is a test 123
