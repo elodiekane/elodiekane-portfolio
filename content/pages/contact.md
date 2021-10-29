@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - image_alt: lorem-ipsum
     content: |
-      ### 💬 Here are some ways to reach me...
+      💬 Here are some ways to reach me...
       ##### Email: <elodie.kane@carleton.ca>
 
       ##### LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
