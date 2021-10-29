@@ -5,11 +5,8 @@ sections:
   - image_alt: lorem-ipsum
     content: |
       ###
-
       ##### Email: <elodie.kane@carleton.ca>
-
       ##### LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
-
       ##### GitHub: [elodiekane](https://github.com/elodiekane)
     type: section_content
 seo:
@@ -33,3 +30,4 @@ seo:
       value: This is the contact page
 layout: advanced
 ---
+
