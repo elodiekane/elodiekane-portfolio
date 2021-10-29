@@ -1,5 +1,5 @@
 ---
-title: Contact Me
+title: Contact Me |
 ####💬 Here are some ways to reach me...
 hide_title: false
 sections:
