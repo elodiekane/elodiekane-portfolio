@@ -3,7 +3,11 @@ title: Contact Me
 hide_title: false
 sections:
   - image_alt: lorem-ipsum
-    content: "\U0001F4AC Here are some ways to reach me...\n\n##### Email: <elodie.kane@carleton.ca>  &#xA;LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)  &#xA;GitHub: [elodiekane](https://github.com/elodiekane)  \n"
+    content: |
+      ### This is a test
+      ##### Email: <elodie.kane@carleton.ca>
+      ##### LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
+      ##### GitHub: [elodiekane](https://github.com/elodiekane)
     type: section_content
 seo:
   title: Contact
