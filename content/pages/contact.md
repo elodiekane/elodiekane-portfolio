@@ -1,6 +1,5 @@
 ---
-title: Contact Me 
-💬 Here are some ways to reach me...
+title: Contact Me 💬 Here are some ways to reach me...
 hide_title: false
 sections:
   - image_alt: lorem-ipsum
