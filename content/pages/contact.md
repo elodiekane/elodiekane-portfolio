@@ -6,8 +6,7 @@ sections:
     content: |
       💬 Here are some ways to reach me...
       ###### Email: <elodie.kane@carleton.ca>
-      ##### LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
-
+      ###### LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
       ##### GitHub: [elodiekane](https://github.com/elodiekane)
     type: section_content
 seo:
