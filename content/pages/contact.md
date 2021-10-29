@@ -4,8 +4,7 @@ hide_title: false
 sections:
   - image_alt: lorem-ipsum
     content: |
-
-
+      ### This is a test
       ##### Email: <elodie.kane@carleton.ca>
 
       ##### LinkedIn: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
