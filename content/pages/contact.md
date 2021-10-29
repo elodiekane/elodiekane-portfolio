@@ -20,7 +20,7 @@ seo:
       value: Contact
     - name: 'twitter:description'
       value: This is the contact page
-layout: page
+layout: advanced
 ---
 ##### **Please find my links below...**
 
