@@ -22,10 +22,4 @@ seo:
       value: This is the contact page
 layout: advanced
 ---
-##### **Please find my links below...**
 
-##### Linkedin: [elodie-kane](https://www.linkedin.com/in/elodie-kane/)
-
-#### This is a test
-
-##### Github: [elodiekane](https://github.com/elodiekane)
